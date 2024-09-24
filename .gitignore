@@ -65,3 +65,5 @@ packages/*/dist
 
 .angular
 .DS_Store
+
+dist
